@@ -19,13 +19,13 @@ Here are some screenshots of the application:
 
 ### Main Menu
 
-![Main Menu](screenshots/screenshot1.png)
+![Main Menu](screenshots/screenshot1_main_menu.png)
 
 The main menu allows you to choose between two game modes.
 
 ### Game in Progress
 
-![Game in Progress](screenshots/screenshot2.png)
+![Game in Progress](screenshots/screenshot2_game.png)
 
 Guess the number with feedback provided on each attempt.
 
