@@ -126,7 +126,7 @@ public class NumberGuessingGame {
 
     /**
      * Checks if the guessed number matches the random number.
-     * Provides feedback to the user whether their guess is too high, too low, or correct.
+     * Provides feedback to the user whether their guess is higher, lower, or correct.
      */
     public static boolean checkGuess(int number, int random) {
         if (number > random) {
