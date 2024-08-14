@@ -27,7 +27,7 @@ The main menu allows you to choose between two game modes.
 
 ![Game in Progress](screenshots/screenshot2_game.png)
 
-Guess the number with feedback provided on each attempt.
+Guess the number with feedback provided on each attempt. If you guess the correct number, the game will inform you that you've won and display your score.
 
 ## Installation
 
